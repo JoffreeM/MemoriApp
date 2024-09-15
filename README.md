@@ -58,3 +58,7 @@ Para más detalles sobre mis proyectos y habilidades técnicas, visita mi perfil
 ## 📧 Contacto
 
 Estoy abierto a oportunidades y colaboraciones. Puedes contactarme a través de [joffree88@gmail.com](mailto:joffree88@gmail.com).
+
+--
+## 🔒 Nota sobre el Código
+El código fuente no está disponible públicamente debido a que la aplicación está en producción y contiene datos sensibles que no pueden ser compartidos. Agradezco tu comprensión.
